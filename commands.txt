@@ -14,3 +14,5 @@
   15 rm testing.py
   16 restore testing.py
   17 git commit -m "Added commands.txt and removed testing.py"...
+
+i gonna crack google in 6-7 months
