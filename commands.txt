@@ -2,3 +2,15 @@
    3 git status
    4 git add testing.py
    5 git commit -m "testing added"
+6 history
+   7 git statys
+   8 git status
+   9 del testing.py
+  10 git status
+  11 git add command.txt
+  12 git commit -m "adding commands"
+  13 git add commands.txt
+  14 git status
+  15 rm testing.py
+  16 restore testing.py
+  17 git commit -m "Added commands.txt and removed testing.py"...
